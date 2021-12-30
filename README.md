@@ -4,6 +4,19 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
+# Introduction
+
+The TTP223 is a touchpad detector IC replicating a single tactile button. This touch detection IC is designed for replacing traditional direct button keys with diverse pad sizes.
+
+A capacitive touch sensor module based on the dedicated TTP223 touch sensor IC. The module provides a single integrated touch sensing area of 11 x 10.5mm with a sensor range of ~5mm. An on-board LED will give a visual indication of when the sensor is triggered. When triggered the output of the module will switch from its idle low state to high (default operation). Solder jumpers allow for reconfiguring its mode of operation to be either active low or toggle output.
+
+# Features
+
+•	Capacitive Touch Breakout
+•	Momentary capacitive touch button with easy-to-use digital I/O pins
+•	Output line value: High / Low
+•	Power source: 1.8V–5V
+
 # Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
